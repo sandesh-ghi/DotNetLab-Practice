@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace lab2
+{
+    internal class fibonacci
+    {
+        public static void Main(string[] args)
+        {
+            int n1 = 0, n2 = 1, n3, i, number;
+            Console.Write("Find nth term of fibonacci number\n\n");
+            Console.Write("Enter the number of elements: ");
+            number = int.Parse(Console.ReadLine());
+            Console.Write(n1 + " " + n2 + " "); //printing 0 and 1    
+            for (i = 2; i < number; ++i) //loop starts from 2 because 0 and 1 are already printed    
+            {
+                n3 = n1 + n2;
+                Console.Write(n3 + " ");
+                
+                n1 = n2;
+                n2 = n3;
+            }
+        }
+    }
+}
+

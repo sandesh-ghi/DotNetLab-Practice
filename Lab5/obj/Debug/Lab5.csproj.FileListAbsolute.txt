@@ -1,0 +1,22 @@
+D:\A\5th sem\.Net\lab\lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\A\5th sem\.Net\lab\lab5\Lab5\bin\Debug\Lab5.exe
+D:\A\5th sem\.Net\lab\lab5\Lab5\bin\Debug\Lab5.pdb
+D:\A\5th sem\.Net\lab\lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\A\5th sem\.Net\lab\lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\A\5th sem\.Net\lab\lab5\Lab5\obj\Debug\Lab5.exe
+D:\A\5th sem\.Net\lab\lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\User\Desktop\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab5\obj\Debug\Lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab5\obj\Debug\Lab5.exe
+C:\Users\User\Desktop\Lab5\obj\Debug\Lab5.pdb
+C:\Users\User\Desktop\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\User\Desktop\Lab5\bin\Debug\Lab5.exe
+C:\Users\User\Desktop\Lab5\bin\Debug\Lab5.pdb
+D:\BCA\Lab\Lab5\bin\Debug\Lab5.exe.config
+D:\BCA\Lab\Lab5\bin\Debug\Lab5.exe
+D:\BCA\Lab\Lab5\bin\Debug\Lab5.pdb
+D:\BCA\Lab\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\BCA\Lab\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\BCA\Lab\Lab5\obj\Debug\Lab5.exe
+D:\BCA\Lab\Lab5\obj\Debug\Lab5.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab3": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\BCA\\Lab\\lab3\\lab3"
+    }
+  }
+}
